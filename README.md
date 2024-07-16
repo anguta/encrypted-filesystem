@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/a4wO9xjG)
 # Filesystem and Encyption
 In this assignment you will be be updating the xv6 filesystem to encrypt and decrypt files.  You will add the encrypted status to the inode structures.  You will also modify the user applications to take this into account and not perform operations on encrypted files.
 
@@ -69,16 +68,3 @@ make qemu
 ```
 ctrl-a x
 ```
-
-## Administrative
-
-This assignment must be coded in C. Any other language will result in 0 points. Your programs will be compiled and graded on the course GitHub Codespace. Code that does not compile with the provided makefile will result in a 0.
-
-There are coding resources and working code you may use in the course GitHub repositories.  You are free to use any of that code in your program if needed. You may use no other outside code.
-
-## Academic Integrity
-This assignment must be 100% your own work. No code may be copied from friends,  previous students, books, web pages, etc. All code submitted is automatically checked 
-against a database of previous semester’s graded assignments, current student’s code and common web sources. By submitting your code on GitHub you are attesting that 
-you have neither given nor received unauthorized assistance on this work. Code that is copied from an external source or used as inspiration, excluding the 
-course github, will result in a 0 for the assignment and referral to the Office of Student Conduct.
-
