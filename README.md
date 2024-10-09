@@ -39,11 +39,6 @@ Update grep.c so that encrypted file will not be search. If grep is passed an en
 ### wc
 Update wc.c so that encrypted file will not be processed. If wc is passed an encrypted file it should return: "Error: File is encrypted.". Ensure the print statement is exactly as specified. On failure a -1 will be returned.
 
-
-## SUBMITTING
-
-Push all your changes to your main branch.  
-
 ## BUILDING AND RUNNING XV6
 
 ### Setting up the cross-compiling environment
